@@ -34,5 +34,5 @@ O portfólio exibe:
 
 ### 🌐 Acesse o Portfólio
 
-🔗 [Meu site portfólio](https://7billy.github.io/meus-links-portif-lio)
+🔗 [Meu site portfólio](https://7billy.github.io/portifolio-mobile/)
 
