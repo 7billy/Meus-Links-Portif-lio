@@ -18,7 +18,7 @@ O portfólio exibe:
 
 | Tela vertical | Tela em perspectiva |
 |---------------|---------------------|
-| ![Tela Mobile 1](./mobile-1.png) | ![Tela Mobile 2](./mobile-2.png) |
+| ![Tela Mobile 1](/assets/img/mobile-1.png) | ![Tela Mobile 2](/assets/img/mobile-2.png) |
 
 ---
 
