@@ -1,0 +1,38 @@
+## 📱 Portfólio Mobile - Rodrigo da Silva
+
+Este é o meu projeto de portfólio mobile desenvolvido com foco em **design responsivo**, **interatividade** e **apresentação profissional** como Desenvolvedor Front End.
+
+### 🔥 Visão Geral
+
+O portfólio exibe:
+
+- Meu nome e função profissional;
+- Minhas principais **hard skills** (HTML, CSS, JavaScript, React, Figma, GitHub);
+- Links diretos para redes sociais e repositórios (TikTok, Instagram, GitHub, LinkedIn);
+- Acesso rápido ao **site do meu portfólio**;
+- Uma seção mostrando o que estou escutando (Spotify).
+
+---
+
+### 📸 Pré-visualizações
+
+| Tela vertical | Tela em perspectiva |
+|---------------|---------------------|
+| ![Tela Mobile 1](./mobile-1.png) | ![Tela Mobile 2](./mobile-2.png) |
+
+---
+
+### 🧪 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Canva (para design)
+- Git & GitHub
+
+---
+
+### 🌐 Acesse o Portfólio
+
+🔗 [Meu site portfólio](https://7billy.github.io/meus-links-portif-lio)
+
